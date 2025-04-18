@@ -12,7 +12,7 @@ let timer,
     charIndex = mistakes = isTyping = 0;
 
 function randomPargraph() {
-    let randIndex = Math.floor(Math.random() * paragraphs.length)
+    let randIndex = Math.floor(Math.random() * paragraphs.length);
     typingText.innerHTML = "";
     paragraphs[randIndex].split("").forEach(span => {
         let spanTag = `<span>${span}</span>`;
