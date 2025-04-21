@@ -1,4 +1,3 @@
-
 const paragraphs = [
     `Artificial intelligence is rapidly transforming industries, from healthcare to finance. With machine learning, systems can analyze vast amounts of data to predict outcomes, automate decisions, and personalize experiences. While AI can improve efficiency and innovation, ethical concerns remain. Issues like data privacy, algorithmic bias, and job displacement require thoughtful oversight. As AI becomes more integrated into daily life—through virtual assistants, recommendation systems, and autonomous vehicles—understanding its capabilities and limitations is essential. The future of AI lies not just in technical progress, but also in responsible development that aligns with human values. With collaboration between technologists, ethicists, and policymakers, we can harness AI for good, ensuring that its benefits are distributed fairly across society without deepening inequality.`,
   
