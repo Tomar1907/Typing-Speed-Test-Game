@@ -89,6 +89,7 @@ function resetGame(){
 
 }
 
+
 randomPargraph();
 inpField.addEventListener("input", initTyping);
 tryAgainBtn.addEventListener("click" , resetGame);
