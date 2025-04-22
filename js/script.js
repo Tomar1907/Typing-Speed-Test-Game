@@ -6,6 +6,7 @@ const wpmTag = document.querySelector(".wpm span");
 const cpmTag = document.querySelector(".cpm span");
 const tryAgainBtn = document.querySelector("button");
 
+
 let timer,
     maxTime = 60,
     timeLeft = maxTime,
