@@ -12,6 +12,7 @@ let timer,
     timeLeft = maxTime,
     charIndex = mistakes = isTyping = 0;
 
+    
 function randomPargraph() {
     let randIndex = Math.floor(Math.random() * paragraphs.length);
     typingText.innerHTML = "";
