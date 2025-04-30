@@ -40,4 +40,5 @@ const paragraphs = [
   
     `Folklore preserves the stories, customs, and beliefs passed through generations. It includes myths, legends, fairy tales, and rituals that reflect a community’s identity and values. Every culture has its own folklore, often blending historical events with imaginative elements. These tales serve to entertain, educate, and explain the unknown. Folklore evolves with time, incorporating new influences while maintaining core themes. Today, it influences everything from literature and film to fashion and memes. By studying folklore, we gain insight into the fears, hopes, and humor of people throughout history. It’s a reminder that while technology changes, our need for stories and symbols remains constant. Folklore is the voice of the people—a tapestry woven from imagination and tradition.`
   ]
+
   
